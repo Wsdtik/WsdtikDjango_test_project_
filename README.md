@@ -1,0 +1,1 @@
+# WsdtikDjango_test_project_
